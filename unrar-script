@@ -1,0 +1,9 @@
+
+#!/bin/bash
+
+mkdir -p Downloads/Unrar-Extracted
+cd Downloads/Unrar-Extracted
+tmp=$(pbpaste)
+/usr/local/bin/unrar e $tmp;
+open .
+
