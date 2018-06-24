@@ -42,6 +42,6 @@ should returns
 ## Run
 Right click the file you want to unrar and select unrar from the services
 
-![alt text](https://github.com/Ashwin-Sirius/macOS-service-unrar/blob/master/images/img-screenshot.png)
+![alt text](https://github.com/Ashwin-Sirius/macOS-service-unrar/blob/master/images/guide-unrar.gif)
 
 
